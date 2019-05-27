@@ -1,0 +1,12 @@
+
+
+### Intellij ###
+
+.idea/
+IlluminatedCloud/
+
+### Intellij Patch ###
+
+*.iml
+
+/src/cred.txt
